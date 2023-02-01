@@ -1,4 +1,4 @@
-### Data Science and Data Analysis | André Cardoso
+### Data Science | André Cardoso
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andrelgcardoso&show_icons=true&theme=highcontrast)](https://github.com/andrelgcardoso/github-readme-stats)
 
